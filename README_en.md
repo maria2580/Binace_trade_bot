@@ -23,7 +23,7 @@ pip install pandas requests websocket-client pandas-ta
 2. **Run the Program**:
 
 ```
-python trading_bot.py
+python btc_usdt_apr_strategy.py
 ```
 
 ## APIs Used
